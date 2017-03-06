@@ -39,7 +39,7 @@ License: About MDN by Mozilla Contributors is licensed under CC-BY-SA 2.5.
 
 URL: http://stackoverflow.com/a/25840319  
 Title: "How to draw a star by using canvas HTML5?"  
-Author: markE ( stackoverflow.com/users/411591/marke )  
+Author: markE ( http://stackoverflow.com/users/411591/marke )  
 Date Accessed: March 4, 2017  
 License: CC-BY-SA 3.0  
 

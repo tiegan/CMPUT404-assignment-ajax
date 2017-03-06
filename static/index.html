@@ -62,7 +62,7 @@ world = {};
 function randomColor() {
     var strColor = "#";
     for(var i = 0; i < 6; i++) {
-        var value = Math.floor(Math.random() * 15);
+        var value = Math.floor(Math.random() * 16);
         if(value === 10) {
             strColor += "A";
         }
@@ -80,6 +80,10 @@ function randomColor() {
         }
         else if(value === 15) {
             strColor += "F";
+        }
+        // In the extremely rare event.
+        else if(value === 16) {
+            strColor += "0";
         }
         else {
             strColor += value.toString();
